@@ -1,3 +1,15 @@
 #story{
     display: none;
 }
+
+h1{
+    background-color: greenyellow;
+}
+
+label{
+    color: green;
+}
+
+button{
+    background-color: aqua;
+}
